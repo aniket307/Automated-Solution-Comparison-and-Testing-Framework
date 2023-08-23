@@ -7,6 +7,7 @@ using namespace std;
 
 int random_number_gererator(int a, int b)
 {
+  //  random_number_gererator is a function will will generate random number with in range a and b (inclusive)
 
   if (a > b)
   {
@@ -19,40 +20,25 @@ int random_number_gererator(int a, int b)
 int main(int argc, char *argv[])
 {
 
-  // code to ensure that random number each time is different
+  // code to ensure that a random number generated each time is unique and if you run the same code again then same test cases will generated
   ios::sync_with_stdio(0);
   cin.tie(0);
-  // srand(time(0));
-  // timeval t1;
-  // gettimeofday(&t1, NULL);
-  // srand(t1.tv_usec * t1.tv_sec);
-
   int seed = atoi(argv[1]);
   srand(seed);
 
+  // code to  print the test case as input
 
+  // simple write the code to print the desired output which can be used as input to other file
 
-  // code to  print the test case input
-
-
-
-
-
-
-
-
-
-
-  int n=random_number_gererator(2,10002);
-  int m=random_number_gererator(2,n);
-
+  int n = random_number_gererator(2, 10);
   cout<<n<<endl;
 
-  // for(int i=0;i<n;i++){
-  //   int x=random_number_gererator(-10,10);
-  //   cout<<x<<" ";
-  // }
-  // cout<<endl;
+  for (int i = 0; i < n; i++)
+  {
+    int x = random_number_gererator(-10, 10);
+    cout << x << " ";
+  }
+  cout << endl;
 
   return 0;
 }

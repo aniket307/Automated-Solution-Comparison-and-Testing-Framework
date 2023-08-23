@@ -16,21 +16,37 @@ In short, suppose you write a code but it's giving wrong answer to some test cas
  ## How to run :
 
 1. Just download all the files 
-2. Open Terminal
-3. Navigate to the Repository Directory
-4. write command ->  bash checker.sh
-5. Then just press enter and done.
+2. Paste the Correct solution and Incorrect cpp code to correct_solution.cp and incorrect_solution.cpp files respectively.
+3. write a cpp code to generate test cases that will be used as input to other file.
+4. Open Terminal
+5. Navigate to the Repository Directory
+6. write command ->  bash checker.sh
+7. Then just press enter and done.
 
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home screen" src="./screenshots/Screenshot 6.png" width="80%"/>
+    <img alt="Home screen" src="./screenshots/Screenshot.png" width="80%"/>
 </p>
-
 
 <p align="center">
-    <img alt="Home screen" src="./screenshots/Screenshot 7.png" width="80%"/>
+    <img alt="Home screen" src="./screenshots/Screenshot 1.png" width="80%"/>
 </p>
+
+<p align="center">
+    <img alt="Home screen" src="./screenshots/Screenshot 2.png" width="80%"/>
+</p>
+
+<p align="center">
+    <img alt="Home screen" src="./screenshots/Screenshot 3.png" width="80%"/>
+</p>
+
+<p align="center">
+    <img alt="Home screen" src="./screenshots/Screenshot 4.png" width="80%"/>
+</p>
+
+
+
 
 
 
