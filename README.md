@@ -16,10 +16,21 @@ In short, suppose you write a code but it's giving wrong answer to some test cas
  ## How to run :
 
 1. Just download all the files 
-2. Open Terminal:
+2. Open Terminal
 3. Navigate to the Repository Directory
-4. write command : bash checker.sh
+4. write command ->  bash checker.sh
 5. Then just press enter and done.
+
+## :camera: Screenshots
+
+<p align="center">
+    <img alt="Home screen" src="./screenshots/Screenshot 6.png" width="80%"/>
+</p>
+
+
+<p align="center">
+    <img alt="Home screen" src="./screenshots/Screenshot 7.png" width="80%"/>
+</p>
 
 
 
