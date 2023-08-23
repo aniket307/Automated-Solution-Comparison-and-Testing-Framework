@@ -1,0 +1,8 @@
+write the correct code in correct_solution.cpp file
+write the incorrect code in incorrect_solution.cpp file
+
+then open terminal at the path then write :
+bash checker.sh 
+
+this will tell you the input on which your solution is giving wrong output
+
