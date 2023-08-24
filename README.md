@@ -1,5 +1,6 @@
 # :zap: Automated Solution Comparison and Testing Framework
-[Visit Google](https://www.google.com){:target="_blank"}
+<a href="https://automated-solution-comparison-and-testing-framework.streamlit.app/" target="_blank">Visit Site</a>
+
 
 
 The CLI engineered an automated error detection and comparison framework to enhance software development and debugging processes. The core objective of this framework is to detect discrepancies between incorrect and correct solutions to a given problem. 
