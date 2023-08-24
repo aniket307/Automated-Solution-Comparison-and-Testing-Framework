@@ -1,5 +1,8 @@
 # :zap: Automated Solution Comparison and Testing Framework
+<p align="center">
 <a href="https://automated-solution-comparison-and-testing-framework.streamlit.app/" target="_blank">Visit Site</a>
+</p>
+
 
 
 
