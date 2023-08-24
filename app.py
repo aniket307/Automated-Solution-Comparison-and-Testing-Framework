@@ -23,3 +23,4 @@ if st.button("Run Checker"):
         with open("output.txt", "r") as f:
             output = f.read()
             st.text(output)
+            st.write("help help")
