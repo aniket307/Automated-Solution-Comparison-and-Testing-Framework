@@ -22,18 +22,10 @@ Just make sure the cpp environment is set up in your local machine. In simple la
 4. Checker Script (checker.sh): 
     This file contains the code which is used to run above files and store results of above files in seperate txt file which is used as the input and output accordingly
 
- ## How to run :
+ ## :camera: How to run :
 
 1. Just download all the files 
 2. Paste the Correct and Incorrect cpp code to correct_solution.cp and incorrect_solution.cpp files respectively.
-3. Write a cpp code to generate test cases that will be used as input to other file.
-4. Open Terminal
-5. Navigate to the Repository Directory
-6. Write command ->  bash checker.sh
-7. Then just press enter and done.
-
-## :camera: Screenshots
-
 <p align="center">
     <img alt="Home screen" src="./screenshots/Screenshot.png" width="80%"/>
 </p>
@@ -41,18 +33,31 @@ Just make sure the cpp environment is set up in your local machine. In simple la
 <p align="center">
     <img alt="Home screen" src="./screenshots/Screenshot 1.png" width="80%"/>
 </p>
-
+3. Write a cpp code to generate test cases that will be used as input to other file.
 <p align="center">
     <img alt="Home screen" src="./screenshots/Screenshot 2.png" width="80%"/>
 </p>
 
+4. Open Terminal
+5. Navigate to the Repository Directory
+6. Write command ->  bash checker.sh
 <p align="center">
     <img alt="Home screen" src="./screenshots/Screenshot 3.png" width="80%"/>
 </p>
-
+7. Then just press enter and done.
 <p align="center">
     <img alt="Home screen" src="./screenshots/Screenshot 4.png" width="80%"/>
 </p>
+
+<!-- ## :camera: Screenshots -->
+
+
+
+
+
+
+
+
 
 
 
