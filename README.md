@@ -25,11 +25,11 @@ Just make sure the cpp environment is set up in your local machine. In simple la
  ## How to run :
 
 1. Just download all the files 
-2. Paste the Correct solution and Incorrect cpp code to correct_solution.cp and incorrect_solution.cpp files respectively.
-3. write a cpp code to generate test cases that will be used as input to other file.
+2. Paste the Correct and Incorrect cpp code to correct_solution.cp and incorrect_solution.cpp files respectively.
+3. Write a cpp code to generate test cases that will be used as input to other file.
 4. Open Terminal
 5. Navigate to the Repository Directory
-6. write command ->  bash checker.sh
+6. Write command ->  bash checker.sh
 7. Then just press enter and done.
 
 ## :camera: Screenshots
