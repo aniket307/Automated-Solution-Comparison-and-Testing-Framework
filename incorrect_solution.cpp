@@ -5,7 +5,7 @@ int main()
 {
     int n;
     cin >> n;
-    if(n!=1000){
+    if(n!=100){
         cout<<n<<endl;
     }else{
         cout<<-1<<endl;
