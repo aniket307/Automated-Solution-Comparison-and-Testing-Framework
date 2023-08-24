@@ -1,4 +1,6 @@
 # :zap: Automated Solution Comparison and Testing Framework
+[Visit Google](https://automated-solution-comparison-and-testing-framework.streamlit.app/)
+
 The CLI engineered an automated error detection and comparison framework to enhance software development and debugging processes. The core objective of this framework is to detect discrepancies between incorrect and correct solutions to a given problem. 
 
 In short, suppose you write a code but it's giving wrong answer to some test case but you don't know the test case, you can use this to generate many test cases to identify on which test case it is giving wrong output. 
