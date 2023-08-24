@@ -10,7 +10,7 @@ for((i=1; ; ++i));do
     ./incorrect_solution <randomInput >  myOutput
     ./correct_solution <randomInput>  correctOutput
     diff -w myOutput correctOutput || break
-    echo "Passed test: " $i
+    # echo "Passed test: " $i
     echo "Passed test: $i" >> output.txt
     cat randomInput >> output.txt
     cat myOutput >> output.txt
@@ -20,12 +20,12 @@ for((i=1; ; ++i));do
 
 done
 
-echo -e "\nWA on the following test: "
-cat randomInput
-echo "your ans is : "
-cat myOutput
-echo "correct ans is: "
-cat correctOutput
+# echo -e "\nWA on the following test: "
+# cat randomInput
+# echo "your ans is : "
+# cat myOutput
+# echo "correct ans is: "
+# cat correctOutput
 
 echo "\nWA on the following test:" >> output.txt
 cat randomInput >> output.txt

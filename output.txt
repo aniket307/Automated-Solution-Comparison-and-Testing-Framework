@@ -1,5 +1,7 @@
-Passed test: 1
-776
+1c1
+< -1
+---
+> 210
 776
 Passed test: 2
 549
@@ -922,10 +924,1636 @@ Passed test: 307
 Passed test: 308
 225
 225
+Passed test: 309
+1000
+1000
+Passed test: 310
+773
+773
+Passed test: 311
+546
+546
+Passed test: 312
+319
+319
+Passed test: 313
+92
+92
+Passed test: 314
+867
+867
+Passed test: 315
+640
+640
+Passed test: 316
+413
+413
+Passed test: 317
+186
+186
+Passed test: 318
+961
+961
+Passed test: 319
+734
+734
+Passed test: 320
+507
+507
+Passed test: 321
+280
+280
+Passed test: 322
+53
+53
+Passed test: 323
+828
+828
+Passed test: 324
+601
+601
+Passed test: 325
+374
+374
+Passed test: 326
+147
+147
+Passed test: 327
+922
+922
+Passed test: 328
+695
+695
+Passed test: 329
+468
+468
+Passed test: 330
+241
+241
+Passed test: 331
+14
+14
+Passed test: 332
+789
+789
+Passed test: 333
+562
+562
+Passed test: 334
+335
+335
+Passed test: 335
+108
+108
+Passed test: 336
+883
+883
+Passed test: 337
+656
+656
+Passed test: 338
+429
+429
+Passed test: 339
+202
+202
+Passed test: 340
+977
+977
+Passed test: 341
+750
+750
+Passed test: 342
+523
+523
+Passed test: 343
+296
+296
+Passed test: 344
+69
+69
+Passed test: 345
+844
+844
+Passed test: 346
+617
+617
+Passed test: 347
+390
+390
+Passed test: 348
+163
+163
+Passed test: 349
+938
+938
+Passed test: 350
+711
+711
+Passed test: 351
+484
+484
+Passed test: 352
+257
+257
+Passed test: 353
+30
+30
+Passed test: 354
+805
+805
+Passed test: 355
+578
+578
+Passed test: 356
+351
+351
+Passed test: 357
+124
+124
+Passed test: 358
+899
+899
+Passed test: 359
+672
+672
+Passed test: 360
+445
+445
+Passed test: 361
+218
+218
+Passed test: 362
+993
+993
+Passed test: 363
+766
+766
+Passed test: 364
+539
+539
+Passed test: 365
+312
+312
+Passed test: 366
+85
+85
+Passed test: 367
+860
+860
+Passed test: 368
+633
+633
+Passed test: 369
+406
+406
+Passed test: 370
+179
+179
+Passed test: 371
+954
+954
+Passed test: 372
+727
+727
+Passed test: 373
+500
+500
+Passed test: 374
+273
+273
+Passed test: 375
+46
+46
+Passed test: 376
+821
+821
+Passed test: 377
+594
+594
+Passed test: 378
+367
+367
+Passed test: 379
+140
+140
+Passed test: 380
+915
+915
+Passed test: 381
+688
+688
+Passed test: 382
+461
+461
+Passed test: 383
+234
+234
+Passed test: 384
+7
+7
+Passed test: 385
+782
+782
+Passed test: 386
+555
+555
+Passed test: 387
+328
+328
+Passed test: 388
+101
+101
+Passed test: 389
+876
+876
+Passed test: 390
+649
+649
+Passed test: 391
+422
+422
+Passed test: 392
+195
+195
+Passed test: 393
+970
+970
+Passed test: 394
+743
+743
+Passed test: 395
+516
+516
+Passed test: 396
+289
+289
+Passed test: 397
+62
+62
+Passed test: 398
+837
+837
+Passed test: 399
+610
+610
+Passed test: 400
+383
+383
+Passed test: 401
+156
+156
+Passed test: 402
+931
+931
+Passed test: 403
+704
+704
+Passed test: 404
+477
+477
+Passed test: 405
+250
+250
+Passed test: 406
+23
+23
+Passed test: 407
+798
+798
+Passed test: 408
+571
+571
+Passed test: 409
+344
+344
+Passed test: 410
+117
+117
+Passed test: 411
+892
+892
+Passed test: 412
+665
+665
+Passed test: 413
+438
+438
+Passed test: 414
+211
+211
+Passed test: 415
+986
+986
+Passed test: 416
+759
+759
+Passed test: 417
+532
+532
+Passed test: 418
+305
+305
+Passed test: 419
+78
+78
+Passed test: 420
+853
+853
+Passed test: 421
+626
+626
+Passed test: 422
+399
+399
+Passed test: 423
+172
+172
+Passed test: 424
+947
+947
+Passed test: 425
+720
+720
+Passed test: 426
+493
+493
+Passed test: 427
+266
+266
+Passed test: 428
+39
+39
+Passed test: 429
+814
+814
+Passed test: 430
+587
+587
+Passed test: 431
+360
+360
+Passed test: 432
+133
+133
+Passed test: 433
+908
+908
+Passed test: 434
+681
+681
+Passed test: 435
+454
+454
+Passed test: 436
+227
+227
+Passed test: 437
+1002
+1002
+Passed test: 438
+775
+775
+Passed test: 439
+548
+548
+Passed test: 440
+321
+321
+Passed test: 441
+94
+94
+Passed test: 442
+869
+869
+Passed test: 443
+642
+642
+Passed test: 444
+415
+415
+Passed test: 445
+188
+188
+Passed test: 446
+963
+963
+Passed test: 447
+736
+736
+Passed test: 448
+509
+509
+Passed test: 449
+282
+282
+Passed test: 450
+55
+55
+Passed test: 451
+830
+830
+Passed test: 452
+603
+603
+Passed test: 453
+376
+376
+Passed test: 454
+149
+149
+Passed test: 455
+924
+924
+Passed test: 456
+697
+697
+Passed test: 457
+470
+470
+Passed test: 458
+243
+243
+Passed test: 459
+16
+16
+Passed test: 460
+791
+791
+Passed test: 461
+564
+564
+Passed test: 462
+337
+337
+Passed test: 463
+110
+110
+Passed test: 464
+885
+885
+Passed test: 465
+658
+658
+Passed test: 466
+431
+431
+Passed test: 467
+204
+204
+Passed test: 468
+979
+979
+Passed test: 469
+752
+752
+Passed test: 470
+525
+525
+Passed test: 471
+298
+298
+Passed test: 472
+71
+71
+Passed test: 473
+846
+846
+Passed test: 474
+619
+619
+Passed test: 475
+392
+392
+Passed test: 476
+165
+165
+Passed test: 477
+940
+940
+Passed test: 478
+713
+713
+Passed test: 479
+486
+486
+Passed test: 480
+259
+259
+Passed test: 481
+32
+32
+Passed test: 482
+807
+807
+Passed test: 483
+580
+580
+Passed test: 484
+353
+353
+Passed test: 485
+126
+126
+Passed test: 486
+901
+901
+Passed test: 487
+674
+674
+Passed test: 488
+447
+447
+Passed test: 489
+220
+220
+Passed test: 490
+995
+995
+Passed test: 491
+768
+768
+Passed test: 492
+541
+541
+Passed test: 493
+314
+314
+Passed test: 494
+87
+87
+Passed test: 495
+862
+862
+Passed test: 496
+635
+635
+Passed test: 497
+408
+408
+Passed test: 498
+181
+181
+Passed test: 499
+956
+956
+Passed test: 500
+729
+729
+Passed test: 501
+502
+502
+Passed test: 502
+275
+275
+Passed test: 503
+48
+48
+Passed test: 504
+823
+823
+Passed test: 505
+596
+596
+Passed test: 506
+369
+369
+Passed test: 507
+142
+142
+Passed test: 508
+917
+917
+Passed test: 509
+690
+690
+Passed test: 510
+463
+463
+Passed test: 511
+236
+236
+Passed test: 512
+9
+9
+Passed test: 513
+784
+784
+Passed test: 514
+557
+557
+Passed test: 515
+330
+330
+Passed test: 516
+103
+103
+Passed test: 517
+878
+878
+Passed test: 518
+651
+651
+Passed test: 519
+424
+424
+Passed test: 520
+197
+197
+Passed test: 521
+972
+972
+Passed test: 522
+745
+745
+Passed test: 523
+518
+518
+Passed test: 524
+291
+291
+Passed test: 525
+64
+64
+Passed test: 526
+839
+839
+Passed test: 527
+612
+612
+Passed test: 528
+385
+385
+Passed test: 529
+158
+158
+Passed test: 530
+933
+933
+Passed test: 531
+706
+706
+Passed test: 532
+479
+479
+Passed test: 533
+252
+252
+Passed test: 534
+25
+25
+Passed test: 535
+800
+800
+Passed test: 536
+573
+573
+Passed test: 537
+346
+346
+Passed test: 538
+119
+119
+Passed test: 539
+894
+894
+Passed test: 540
+667
+667
+Passed test: 541
+440
+440
+Passed test: 542
+213
+213
+Passed test: 543
+988
+988
+Passed test: 544
+761
+761
+Passed test: 545
+534
+534
+Passed test: 546
+307
+307
+Passed test: 547
+80
+80
+Passed test: 548
+855
+855
+Passed test: 549
+628
+628
+Passed test: 550
+401
+401
+Passed test: 551
+174
+174
+Passed test: 552
+949
+949
+Passed test: 553
+722
+722
+Passed test: 554
+495
+495
+Passed test: 555
+268
+268
+Passed test: 556
+41
+41
+Passed test: 557
+816
+816
+Passed test: 558
+589
+589
+Passed test: 559
+362
+362
+Passed test: 560
+135
+135
+Passed test: 561
+910
+910
+Passed test: 562
+683
+683
+Passed test: 563
+456
+456
+Passed test: 564
+229
+229
+Passed test: 565
+2
+2
+Passed test: 566
+777
+777
+Passed test: 567
+550
+550
+Passed test: 568
+323
+323
+Passed test: 569
+96
+96
+Passed test: 570
+871
+871
+Passed test: 571
+644
+644
+Passed test: 572
+417
+417
+Passed test: 573
+190
+190
+Passed test: 574
+965
+965
+Passed test: 575
+738
+738
+Passed test: 576
+511
+511
+Passed test: 577
+284
+284
+Passed test: 578
+57
+57
+Passed test: 579
+832
+832
+Passed test: 580
+605
+605
+Passed test: 581
+378
+378
+Passed test: 582
+151
+151
+Passed test: 583
+926
+926
+Passed test: 584
+699
+699
+Passed test: 585
+472
+472
+Passed test: 586
+245
+245
+Passed test: 587
+18
+18
+Passed test: 588
+793
+793
+Passed test: 589
+566
+566
+Passed test: 590
+339
+339
+Passed test: 591
+112
+112
+Passed test: 592
+887
+887
+Passed test: 593
+660
+660
+Passed test: 594
+433
+433
+Passed test: 595
+206
+206
+Passed test: 596
+981
+981
+Passed test: 597
+754
+754
+Passed test: 598
+527
+527
+Passed test: 599
+300
+300
+Passed test: 600
+73
+73
+Passed test: 601
+848
+848
+Passed test: 602
+621
+621
+Passed test: 603
+394
+394
+Passed test: 604
+167
+167
+Passed test: 605
+942
+942
+Passed test: 606
+715
+715
+Passed test: 607
+488
+488
+Passed test: 608
+261
+261
+Passed test: 609
+34
+34
+Passed test: 610
+809
+809
+Passed test: 611
+582
+582
+Passed test: 612
+355
+355
+Passed test: 613
+128
+128
+Passed test: 614
+903
+903
+Passed test: 615
+676
+676
+Passed test: 616
+449
+449
+Passed test: 617
+222
+222
+Passed test: 618
+997
+997
+Passed test: 619
+770
+770
+Passed test: 620
+543
+543
+Passed test: 621
+316
+316
+Passed test: 622
+89
+89
+Passed test: 623
+864
+864
+Passed test: 624
+637
+637
+Passed test: 625
+410
+410
+Passed test: 626
+183
+183
+Passed test: 627
+958
+958
+Passed test: 628
+731
+731
+Passed test: 629
+504
+504
+Passed test: 630
+277
+277
+Passed test: 631
+50
+50
+Passed test: 632
+825
+825
+Passed test: 633
+598
+598
+Passed test: 634
+371
+371
+Passed test: 635
+144
+144
+Passed test: 636
+919
+919
+Passed test: 637
+692
+692
+Passed test: 638
+465
+465
+Passed test: 639
+238
+238
+Passed test: 640
+11
+11
+Passed test: 641
+786
+786
+Passed test: 642
+559
+559
+Passed test: 643
+332
+332
+Passed test: 644
+105
+105
+Passed test: 645
+880
+880
+Passed test: 646
+653
+653
+Passed test: 647
+426
+426
+Passed test: 648
+199
+199
+Passed test: 649
+974
+974
+Passed test: 650
+747
+747
+Passed test: 651
+520
+520
+Passed test: 652
+293
+293
+Passed test: 653
+66
+66
+Passed test: 654
+841
+841
+Passed test: 655
+614
+614
+Passed test: 656
+387
+387
+Passed test: 657
+160
+160
+Passed test: 658
+935
+935
+Passed test: 659
+708
+708
+Passed test: 660
+481
+481
+Passed test: 661
+254
+254
+Passed test: 662
+27
+27
+Passed test: 663
+802
+802
+Passed test: 664
+575
+575
+Passed test: 665
+348
+348
+Passed test: 666
+121
+121
+Passed test: 667
+896
+896
+Passed test: 668
+669
+669
+Passed test: 669
+442
+442
+Passed test: 670
+215
+215
+Passed test: 671
+990
+990
+Passed test: 672
+763
+763
+Passed test: 673
+536
+536
+Passed test: 674
+309
+309
+Passed test: 675
+82
+82
+Passed test: 676
+857
+857
+Passed test: 677
+630
+630
+Passed test: 678
+403
+403
+Passed test: 679
+176
+176
+Passed test: 680
+951
+951
+Passed test: 681
+724
+724
+Passed test: 682
+497
+497
+Passed test: 683
+270
+270
+Passed test: 684
+43
+43
+Passed test: 685
+818
+818
+Passed test: 686
+591
+591
+Passed test: 687
+364
+364
+Passed test: 688
+137
+137
+Passed test: 689
+912
+912
+Passed test: 690
+685
+685
+Passed test: 691
+458
+458
+Passed test: 692
+231
+231
+Passed test: 693
+4
+4
+Passed test: 694
+779
+779
+Passed test: 695
+552
+552
+Passed test: 696
+325
+325
+Passed test: 697
+98
+98
+Passed test: 698
+873
+873
+Passed test: 699
+646
+646
+Passed test: 700
+419
+419
+Passed test: 701
+192
+192
+Passed test: 702
+967
+967
+Passed test: 703
+740
+740
+Passed test: 704
+513
+513
+Passed test: 705
+286
+286
+Passed test: 706
+59
+59
+Passed test: 707
+834
+834
+Passed test: 708
+607
+607
+Passed test: 709
+380
+380
+Passed test: 710
+153
+153
+Passed test: 711
+928
+928
+Passed test: 712
+701
+701
+Passed test: 713
+474
+474
+Passed test: 714
+247
+247
+Passed test: 715
+20
+20
+Passed test: 716
+795
+795
+Passed test: 717
+568
+568
+Passed test: 718
+341
+341
+Passed test: 719
+114
+114
+Passed test: 720
+889
+889
+Passed test: 721
+662
+662
+Passed test: 722
+435
+435
+Passed test: 723
+208
+208
+Passed test: 724
+983
+983
+Passed test: 725
+756
+756
+Passed test: 726
+529
+529
+Passed test: 727
+302
+302
+Passed test: 728
+75
+75
+Passed test: 729
+850
+850
+Passed test: 730
+623
+623
+Passed test: 731
+396
+396
+Passed test: 732
+169
+169
+Passed test: 733
+944
+944
+Passed test: 734
+717
+717
+Passed test: 735
+490
+490
+Passed test: 736
+263
+263
+Passed test: 737
+36
+36
+Passed test: 738
+811
+811
+Passed test: 739
+584
+584
+Passed test: 740
+357
+357
+Passed test: 741
+130
+130
+Passed test: 742
+905
+905
+Passed test: 743
+678
+678
+Passed test: 744
+451
+451
+Passed test: 745
+224
+224
+Passed test: 746
+999
+999
+Passed test: 747
+772
+772
+Passed test: 748
+545
+545
+Passed test: 749
+318
+318
+Passed test: 750
+91
+91
+Passed test: 751
+866
+866
+Passed test: 752
+639
+639
+Passed test: 753
+412
+412
+Passed test: 754
+185
+185
+Passed test: 755
+960
+960
+Passed test: 756
+733
+733
+Passed test: 757
+506
+506
+Passed test: 758
+279
+279
+Passed test: 759
+52
+52
+Passed test: 760
+827
+827
+Passed test: 761
+600
+600
+Passed test: 762
+373
+373
+Passed test: 763
+146
+146
+Passed test: 764
+921
+921
+Passed test: 765
+694
+694
+Passed test: 766
+467
+467
+Passed test: 767
+240
+240
+Passed test: 768
+13
+13
+Passed test: 769
+788
+788
+Passed test: 770
+561
+561
+Passed test: 771
+334
+334
+Passed test: 772
+107
+107
+Passed test: 773
+882
+882
+Passed test: 774
+655
+655
+Passed test: 775
+428
+428
+Passed test: 776
+201
+201
+Passed test: 777
+976
+976
+Passed test: 778
+749
+749
+Passed test: 779
+522
+522
+Passed test: 780
+295
+295
+Passed test: 781
+68
+68
+Passed test: 782
+843
+843
+Passed test: 783
+616
+616
+Passed test: 784
+389
+389
+Passed test: 785
+162
+162
+Passed test: 786
+937
+937
+Passed test: 787
+710
+710
+Passed test: 788
+483
+483
+Passed test: 789
+256
+256
+Passed test: 790
+29
+29
+Passed test: 791
+804
+804
+Passed test: 792
+577
+577
+Passed test: 793
+350
+350
+Passed test: 794
+123
+123
+Passed test: 795
+898
+898
+Passed test: 796
+671
+671
+Passed test: 797
+444
+444
+Passed test: 798
+217
+217
+Passed test: 799
+992
+992
+Passed test: 800
+765
+765
+Passed test: 801
+538
+538
+Passed test: 802
+311
+311
+Passed test: 803
+84
+84
+Passed test: 804
+859
+859
+Passed test: 805
+632
+632
+Passed test: 806
+405
+405
+Passed test: 807
+178
+178
+Passed test: 808
+953
+953
+Passed test: 809
+726
+726
+Passed test: 810
+499
+499
+Passed test: 811
+272
+272
+Passed test: 812
+45
+45
+Passed test: 813
+820
+820
+Passed test: 814
+593
+593
+Passed test: 815
+366
+366
+Passed test: 816
+139
+139
+Passed test: 817
+914
+914
+Passed test: 818
+687
+687
+Passed test: 819
+460
+460
+Passed test: 820
+233
+233
+Passed test: 821
+6
+6
+Passed test: 822
+781
+781
+Passed test: 823
+554
+554
+Passed test: 824
+327
+327
+Passed test: 825
+100
+100
+Passed test: 826
+875
+875
+Passed test: 827
+648
+648
+Passed test: 828
+421
+421
+Passed test: 829
+194
+194
+Passed test: 830
+969
+969
+Passed test: 831
+742
+742
+Passed test: 832
+515
+515
+Passed test: 833
+288
+288
+Passed test: 834
+61
+61
+Passed test: 835
+836
+836
+Passed test: 836
+609
+609
+Passed test: 837
+382
+382
+Passed test: 838
+155
+155
+Passed test: 839
+930
+930
+Passed test: 840
+703
+703
+Passed test: 841
+476
+476
+Passed test: 842
+249
+249
+Passed test: 843
+22
+22
+Passed test: 844
+797
+797
+Passed test: 845
+570
+570
+Passed test: 846
+343
+343
+Passed test: 847
+116
+116
+Passed test: 848
+891
+891
+Passed test: 849
+664
+664
+Passed test: 850
+437
+437
 
 WA on the following test:
-1000
+210
 your ans is : 
 -1
 correct ans is : 
-1000
+210
